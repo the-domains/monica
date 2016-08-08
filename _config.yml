@@ -1,0 +1,28 @@
+name: monica
+favicon: null
+layout_spectrum: 0.9960664841346443
+typography_spectrum: 0.08510444941930473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5957924409303814
+  lightness: 0.9263442838564515
+  saturation: 0.904008865589276
+  rhythmicContrast: 0.5002929111942649
+purpose: []
